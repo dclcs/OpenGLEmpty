@@ -1,0 +1,2 @@
+# OpenGLEmpty
+for Mac
